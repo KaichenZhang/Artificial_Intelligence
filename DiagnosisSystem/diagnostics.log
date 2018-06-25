@@ -1,0 +1,323 @@
+Diagnosis logging starting...
+
+Patient has given the following symptoms:
+
+Cough
+Diarrhea
+Diziness
+Fever
+Mouth Ulcers
+
+Logging statistics for "AIDS":
+
+This disease/condition is associated with the following symptoms:
+Chills (weight = 1)
+Depression (weight = 3)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Memory Loss (weight = 4)
+Mouth Ulcers (weight = 2)
+Muscle Pain (weight = 2)
+Neurologic Disorders (weight = 4)
+Night Sweats (weight = 2)
+Pneumonia (weight = 4)
+Rapid Weight Loss (weight = 4)
+Rash (weight = 2)
+Skin Blotches (weight = 2)
+Sore Throat (weight = 2)
+Swollen Lymph Nodes (weight = 3)
+There is a total of 16 symptoms worth 38 points.
+
+The following chosen symptoms match this disease:
+Diarrhea (weight = 1)
+Fever (weight = 1)
+Mouth Ulcers (weight = 2)
+
+There are 3 matched symptoms worth 4 points.
+There are 10.53% matched symptoms (3 total matched weight / 38 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Cough
+Diziness
+
+There are 2 non-matched symptoms.
+There are 12.50% non-matched symptoms (2 total missed count / 16 total disease count).
+
+Correlation exists when the match percentage 10.53 is larger than 0 and the missed percentage 12.50 is smaller or equal to the allowed threshold 50.
+Uncertain association exists when the missed percentage 12.50 is larger or equal to the match percentage 10.53.
+
+Logging statistics for "Hepatitis C":
+
+This disease/condition is associated with the following symptoms:
+Constipation (weight = 2)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Joint Pain (weight = 2)
+Muscle Pain (weight = 2)
+Nausea (weight = 1)
+Poor Appetite (weight = 2)
+Stomach Pain (weight = 2)
+Urine Abnormalities (weight = 3)
+Vomiting (weight = 1)
+Yellow Eyes And Skin (weight = 4)
+There is a total of 12 symptoms worth 22 points.
+
+The following chosen symptoms match this disease:
+Diarrhea (weight = 1)
+Fever (weight = 1)
+
+There are 2 matched symptoms worth 2 points.
+There are 9.09% matched symptoms (2 total matched weight / 22 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Cough
+Diziness
+Mouth Ulcers
+
+There are 3 non-matched symptoms.
+There are 25.00% non-matched symptoms (3 total missed count / 12 total disease count).
+
+Correlation exists when the match percentage 9.09 is larger than 0 and the missed percentage 25.00 is smaller or equal to the allowed threshold 50.
+Uncertain association exists when the missed percentage 25.00 is larger or equal to the match percentage 9.09.
+
+Logging statistics for "Influenza":
+
+This disease/condition is associated with the following symptoms:
+Body Pain (weight = 2)
+Chills (weight = 1)
+Cough (weight = 4)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Headaches (weight = 2)
+Muscle Pain (weight = 2)
+Sore Throat (weight = 3)
+Stuffy Or Runny Nose (weight = 4)
+Vomiting (weight = 1)
+There is a total of 11 symptoms worth 22 points.
+
+The following chosen symptoms match this disease:
+Cough (weight = 4)
+Diarrhea (weight = 1)
+Fever (weight = 1)
+
+There are 3 matched symptoms worth 6 points.
+There are 27.27% matched symptoms (3 total matched weight / 22 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Diziness
+Mouth Ulcers
+
+There are 2 non-matched symptoms.
+There are 18.18% non-matched symptoms (2 total missed count / 11 total disease count).
+
+Correlation exists when the match percentage 27.27 is larger than 0 and the missed percentage 18.18 is smaller or equal to the allowed threshold 50.
+Prediction is given when the match percentage 27.27 is larger or equal to the missed percentage 18.18.
+
+Logging statistics for "Pregnancy":
+
+This disease/condition is associated with the following symptoms:
+Acne (weight = 1)
+Bloating (weight = 3)
+Constipation (weight = 2)
+Cramping And Spotting (weight = 4)
+Diziness (weight = 2)
+Fatigue (weight = 2)
+Food Aversion (weight = 2)
+Frequent Urination (weight = 3)
+Heartburn (weight = 3)
+High Blood Pressure (weight = 2)
+Increased Heart Rate (weight = 3)
+Missed Period (weight = 4)
+Mood Swings (weight = 3)
+Morning Sickness (weight = 3)
+Nausea (weight = 1)
+Pregnancy Glow (weight = 4)
+Raised Temperature (weight = 2)
+Smell Sensitivity (weight = 2)
+Singling Or Aching Breasts (weight = 4)
+Vomiting (weight = 1)
+Weight Gain (weight = 4)
+There is a total of 21 symptoms worth 55 points.
+
+The following chosen symptoms match this disease:
+Diziness (weight = 2)
+
+There are 1 matched symptoms worth 2 points.
+There are 3.64% matched symptoms (1 total matched weight / 55 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Cough
+Diarrhea
+Fever
+Mouth Ulcers
+
+There are 4 non-matched symptoms.
+There are 19.05% non-matched symptoms (4 total missed count / 21 total disease count).
+
+Correlation exists when the match percentage 3.64 is larger than 0 and the missed percentage 19.05 is smaller or equal to the allowed threshold 50.
+Uncertain association exists when the missed percentage 19.05 is larger or equal to the match percentage 3.64.
+
+Diagnosis logging stopped...
+
+Diagnosis logging starting...
+
+Patient has given the following symptoms:
+
+Fever
+Headaches
+Vomiting
+Yellow Eyes And Skin
+
+Logging statistics for "AIDS":
+
+This disease/condition is associated with the following symptoms:
+Chills (weight = 1)
+Depression (weight = 3)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Memory Loss (weight = 4)
+Mouth Ulcers (weight = 2)
+Muscle Pain (weight = 2)
+Neurologic Disorders (weight = 4)
+Night Sweats (weight = 2)
+Pneumonia (weight = 4)
+Rapid Weight Loss (weight = 4)
+Rash (weight = 2)
+Skin Blotches (weight = 2)
+Sore Throat (weight = 2)
+Swollen Lymph Nodes (weight = 3)
+There is a total of 16 symptoms worth 38 points.
+
+The following chosen symptoms match this disease:
+Fever (weight = 1)
+
+There are 1 matched symptoms worth 1 points.
+There are 2.63% matched symptoms (1 total matched weight / 38 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Headaches
+Vomiting
+Yellow Eyes And Skin
+
+There are 3 non-matched symptoms.
+There are 18.75% non-matched symptoms (3 total missed count / 16 total disease count).
+
+Correlation exists when the match percentage 2.63 is larger than 0 and the missed percentage 18.75 is smaller or equal to the allowed threshold 50.
+Uncertain association exists when the missed percentage 18.75 is larger or equal to the match percentage 2.63.
+
+Logging statistics for "Hepatitis C":
+
+This disease/condition is associated with the following symptoms:
+Constipation (weight = 2)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Joint Pain (weight = 2)
+Muscle Pain (weight = 2)
+Nausea (weight = 1)
+Poor Appetite (weight = 2)
+Stomach Pain (weight = 2)
+Urine Abnormalities (weight = 3)
+Vomiting (weight = 1)
+Yellow Eyes And Skin (weight = 4)
+There is a total of 12 symptoms worth 22 points.
+
+The following chosen symptoms match this disease:
+Fever (weight = 1)
+Vomiting (weight = 1)
+Yellow Eyes And Skin (weight = 4)
+
+There are 3 matched symptoms worth 6 points.
+There are 27.27% matched symptoms (3 total matched weight / 22 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Headaches
+
+There are 1 non-matched symptoms.
+There are 8.33% non-matched symptoms (1 total missed count / 12 total disease count).
+
+Correlation exists when the match percentage 27.27 is larger than 0 and the missed percentage 8.33 is smaller or equal to the allowed threshold 50.
+Prediction is given when the match percentage 27.27 is larger or equal to the missed percentage 8.33.
+
+Logging statistics for "Influenza":
+
+This disease/condition is associated with the following symptoms:
+Body Pain (weight = 2)
+Chills (weight = 1)
+Cough (weight = 4)
+Diarrhea (weight = 1)
+Fatigue (weight = 1)
+Fever (weight = 1)
+Headaches (weight = 2)
+Muscle Pain (weight = 2)
+Sore Throat (weight = 3)
+Stuffy Or Runny Nose (weight = 4)
+Vomiting (weight = 1)
+There is a total of 11 symptoms worth 22 points.
+
+The following chosen symptoms match this disease:
+Fever (weight = 1)
+Headaches (weight = 2)
+Vomiting (weight = 1)
+
+There are 3 matched symptoms worth 4 points.
+There are 18.18% matched symptoms (3 total matched weight / 22 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Yellow Eyes And Skin
+
+There are 1 non-matched symptoms.
+There are 9.09% non-matched symptoms (1 total missed count / 11 total disease count).
+
+Correlation exists when the match percentage 18.18 is larger than 0 and the missed percentage 9.09 is smaller or equal to the allowed threshold 50.
+Prediction is given when the match percentage 18.18 is larger or equal to the missed percentage 9.09.
+
+Logging statistics for "Pregnancy":
+
+This disease/condition is associated with the following symptoms:
+Acne (weight = 1)
+Bloating (weight = 3)
+Constipation (weight = 2)
+Cramping And Spotting (weight = 4)
+Diziness (weight = 2)
+Fatigue (weight = 2)
+Food Aversion (weight = 2)
+Frequent Urination (weight = 3)
+Heartburn (weight = 3)
+High Blood Pressure (weight = 2)
+Increased Heart Rate (weight = 3)
+Missed Period (weight = 4)
+Mood Swings (weight = 3)
+Morning Sickness (weight = 3)
+Nausea (weight = 1)
+Pregnancy Glow (weight = 4)
+Raised Temperature (weight = 2)
+Smell Sensitivity (weight = 2)
+Singling Or Aching Breasts (weight = 4)
+Vomiting (weight = 1)
+Weight Gain (weight = 4)
+There is a total of 21 symptoms worth 55 points.
+
+The following chosen symptoms match this disease:
+Vomiting (weight = 1)
+
+There are 1 matched symptoms worth 1 points.
+There are 1.82% matched symptoms (1 total matched weight / 55 total disease weight).
+
+The following chosen symptoms do not match this disease:
+Fever
+Headaches
+Yellow Eyes And Skin
+
+There are 3 non-matched symptoms.
+There are 14.29% non-matched symptoms (3 total missed count / 21 total disease count).
+
+Correlation exists when the match percentage 1.82 is larger than 0 and the missed percentage 14.29 is smaller or equal to the allowed threshold 50.
+Uncertain association exists when the missed percentage 14.29 is larger or equal to the match percentage 1.82.
+
+Diagnosis logging stopped...
+
